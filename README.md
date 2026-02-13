@@ -2,27 +2,29 @@
 <a href="https://www.linkedin.com/in/vukha-tran-8896b6252/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Aspiring cybersecurity analyst with hands-on experience in IT support, system administration, and security operations. Passionate about threat detection, incident response, and infrastructure security, leveraging tools like PowerShell, Active Directory, and Nessus to enhance security and efficiency.
+Cybersecurity Analyst with an MS in Cybersecurity and 2 years of hands-on experience in monitoring, incident response, and endpoint security. Skilled in identifying risks, investigating alerts, and supporting secure infrastructure using PowerShell, Active Directory, and Microsoft security platforms to improve overall security posture.
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking a cybersecurity role where I can leverage my experience in threat monitoring, incident response, and identity and endpoint security to enhance organizational security posture.
 
 ## Skills
 
 | Skill                                         | Associated Environment         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SIEM Lab|
-| Network Traffic Monitoring and Attack Detection | JBLearning Labs |
-| Risk and Vulnerability Scanning | JBLearning Labs |
-| Incident Response Planning and Execution      | Tower Digital|
-| Scripting and Automation  | Tower Digital|
-| Identity and Access Management | Tower Digital|
+| SIEM Implementation and Log Analysis          | InfoDefense|
+| Network Traffic Monitoring and Attack Detection | InfoDefense and TowerDigital|
+| Risk and Vulnerability Scanning | InfoDefense |
+| Incident Response Planning and Execution      | InfoDefense|
+| Scripting and Automation  | InfoDefense and TowerDigital|
+| Identity and Access Management | InfoDefense and TowerDigital|
 
 ## Tools
 
 ### Network and Vulnerability Scanners
 <div>
+    <img src="https://img.shields.io/badge/-Greenbone-2E7D32?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-OpenVAS-2E7D32?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-EF3B2D?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=Nmap&logoColor=white" />
@@ -36,6 +38,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Wazuh-0052CC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 </div>
