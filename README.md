@@ -47,8 +47,14 @@ Seeking a cybersecurity role where I can leverage my experience in threat monito
 
 ### Identity and Access Management
 <div>
+### Identity and Access Management
+<div>
 <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-
+<img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
 
 ### Network Security
 <div>
