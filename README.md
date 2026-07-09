@@ -46,6 +46,8 @@ Seeking a cybersecurity role where I can leverage my experience in threat monito
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ ![Fortinet NSE 4](https://img.shields.io/badge/-Fortinet_NSE_4-EE3124?&style=for-the-badge&logo=fortinet&logoColor=white)
+   
 <img src="https://img.shields.io/badge/-Google Professional IT%2B-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
 
 </div>
