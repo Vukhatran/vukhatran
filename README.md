@@ -43,7 +43,7 @@ Seeking a cybersecurity role where I can leverage my experience in threat monito
     <img src="https://img.shields.io/badge/-Huntress-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM AND MONITORING
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-0052CC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
