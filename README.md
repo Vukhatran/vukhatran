@@ -30,13 +30,6 @@ Seeking a cybersecurity role where I can leverage my experience in threat monito
     <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### Identity and Access Management
-<div>
-<img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -51,6 +44,11 @@ Seeking a cybersecurity role where I can leverage my experience in threat monito
 <img src="https://img.shields.io/badge/-PagerDuty-06AC38?&style=for-the-badge&logo=pagerduty&logoColor=white" />
 
 </div>
+
+### Identity and Access Management
+<div>
+<img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-
 
 ### Network Security
 <div>
